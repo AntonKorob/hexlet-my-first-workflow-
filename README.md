@@ -1,6 +1,6 @@
 # Hello World Project
 
-![CI](https://github.com/AntonKorob/https://github.com/AntonKorob/hexlet-my-first-workflow-.git/workflows/Hello%20World%20Workflow/badge.svg)
+![CI](https://github.com/AntonKorob/hexlet-my-first-workflow-.git/workflows/Hello%20World%20Workflow/badge.svg)
 
 This project demonstrates a simple GitHub Actions workflow.
 # hexlet-my-first-workflow-
