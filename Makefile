@@ -18,4 +18,6 @@ jobs:
       - uses: actions/checkout@v4
       # run – произвольная bash-команда
       # ls -la выведет содержимое текущего репозитория
-      - run: Hello user
+      - run: make say-hello 
+say-hello:  
+	Hello user
